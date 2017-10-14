@@ -1,0 +1,11 @@
+{
+  "name": "flatem",
+  "version": "0.0.1",
+  "description": "functional light library",
+  "main": "index.js",
+  "author": "Lau Zhihao",
+  "license": "MIT",
+  "dependencies": {
+    "user": "0.0.0"
+  }
+}
